@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="./Lain" alt="Banner image" width="100%" style="border-radius: 10px;">
+  <img src="./Lain.jpg" alt="Banner image" width="100%" style="border-radius: 10px;">
 </p>
 
 <h1 align="center">heyy, this is shristi</h1>
