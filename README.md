@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://pin.it/1qYTGQU58" alt="Banner image" width="100%" style="border-radius: 10px;">
+  <img src="./Lain" alt="Banner image" width="100%" style="border-radius: 10px;">
 </p>
 
 <h1 align="center">heyy, this is shristi</h1>
@@ -79,6 +79,7 @@ Interested in deep learning, LLMs, and building things that are actually useful.
 ---
 
 ### GitHub Stats
+
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=shristitapse&show_icons=true&locale=en&theme=merko&hide_border=true" alt="GitHub Stats" height="150"/>
