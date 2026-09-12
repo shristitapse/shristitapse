@@ -1,49 +1,52 @@
 <!-- Banner -->
+
 <p align="center">
   <img src="./Lain.jpg" alt="Banner image" width="100%" style="border-radius: 10px;">
 </p>
 
 <h1 align="center">heyy, this is shristi</h1>
 <h3 align="center">coffee.coffee.coffee.</h3>
+
 <p align="center">
   <a href="https://shristitapse.github.io/st/" target="_blank"><strong>Portfolio</strong></a> •
-  <a href="www.linkedin.com/in/shristi-tapse" target="_blank"><strong>LinkedIn</strong></a>
+  <a href="https://www.linkedin.com/in/shristi-tapse" target="_blank"><strong>LinkedIn</strong></a>
 </p>
 
 ---
 
 ### About Me
 
-Aspiring AI engineer. Currently learning how things work before pretending I know how they work.
-Interested in deep learning, LLMs, and building things that are actually useful.
+Computer Science student. Currently learning how things work before pretending I know how they work.
+
+I like building things, experimenting with new ideas, and figuring things out along the way.
 
 ---
 
 ### Languages and Tools
 
-**Full Stack**
+**Languages**
 
-| JS | React | Node.js | MySQL |
-|---|---|---|---|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50"/> |
+| Python                                                                                                             | Java                                                                                                           | C++                                                                                                                      | JavaScript                                                                                                                 | Dart                                                                                                           |
+| ------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="50"/> |
 
-**IoT**
+**Frameworks & Libraries**
 
-| Arduino | Raspberry Pi |
-|---|---|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" width="50"/> |
+| PyTorch                                                                                                              | Spring Boot                                                                                                        | React                                                                                                            | Node.js                                                                                                            | Express                                                                                                              | Flutter                                                                                                              |
+| -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="50"/> |
 
-**ML / AI**
+**Databases**
 
-| Python | PyTorch | TensorFlow | Hugging Face |
-|---|---|---|---|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/> | <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="50"/> | <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="50"/> | <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50"/> |
+| MySQL                                                                                                                     | PostgreSQL                                                                                                                 | MongoDB                                                                                                              | Firebase                                                                                                               |
+| ------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" width="50"/> |
 
 **Tools**
 
-| Git | Linux | Docker |
-|---|---|---|
-| <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50"/> |
+| Git                                                                                                          | GitHub                                                                                                             | Linux                                                                                                            | Docker                                                                                                             |
+| ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50"/> |
 
 ---
 
